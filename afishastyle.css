@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+.afisha {
+    background: url("img/1b.png") center center/cover no-repeat;
+    height: 100vh;
+}
+
+.container { 
+    position: relative;
+    margin: 0 auto;
+    width: 900px;
+}
+
+.afisha_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 107px;
+    color: #921A1D;
+    text-align: center;
+}
+
+.fst {
+    display: block;
+    margin-top: 50px;
+}
+
+.fst_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #921A1D;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.fst_text {
+    text-align: center;
+}
+
+
+.snd {
+    display: block;
+    margin-top: 50px;
+}
+
+.snd_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #921A1D;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.snd_text {
+    text-align: center;
+}
+
+.trd {
+    display: block;
+    margin-top: 50px;
+}
+
+.trd_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #921A1D;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.trd ul li {
+    text-align: center;
+}
+
+
+.fth {
+    display: block;
+    margin-top: 50px;
+}
+
+.fth_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #921A1D;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.fth ul li {
+    text-align: center;
+}
+
+.backtomain {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+    padding-bottom: 50px;
+}
+
+

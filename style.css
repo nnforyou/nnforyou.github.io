@@ -1,0 +1,176 @@
+/* Общие настройки */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Первая секция */
+
+.main {
+    background-image: url("img/mainbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 900px;
+}
+
+.main_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 72px;
+    line-height: 107px;
+    color: #921A1D;
+    text-align: center;
+}
+
+.wrapper {  
+    padding-top: 200px;
+}
+
+.main_logo {
+    display: block;
+    width: 131px;
+    height: 131px;
+    margin: 0 auto;
+}
+
+.main_line {
+    display: block;
+    margin: 0 auto;
+    background-color: #F99B1C;
+    margin-top: 2px;
+    width: 362px;
+    height: 5px;
+}
+
+.main_subtitle {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #921A1D;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.scroll {
+    margin-top: 220px;
+    text-align: center;
+}
+
+.scroll_arrow {
+    display: block;
+    width: 35px;
+    height: 31px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.scroll_a {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    color: #921A1D;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Вторая секция */
+
+.second {
+    background-image: url("img/secondbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.down {
+    height: 40px;
+    background-color: #F99B1C;
+}
+
+.down_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 8px;
+}
+
+.mail {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+}
+
+.group {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+/* Слайдер */
+
+.containere {
+    position: relative;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+}
+
+.card1 {
+    width: 309px;
+    height: 502px;
+    border: none;
+    border-radius: 20px;
+    background-image: url("img/card1.png");
+}
+.card2 {
+    background-image: url("img/card2.png");
+}
+
+.card3 {
+    background-image: url("img/card3.png");
+}
+
+.card_a {
+    display: block;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 71px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+    width: 246px;
+    height: 128px;
+    padding-top: 180px;
+    margin-left: 30px;
+    text-transform: uppercase;
+}

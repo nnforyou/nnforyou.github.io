@@ -1,0 +1,340 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+.stadium {
+    background: url("img/1b.png") center center/cover no-repeat;
+    height: 100vh;
+}
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.stadium_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 95px;
+    color: #921A1D;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.flex_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.staduim_img {
+    width: 481px;
+    height: 495px;
+}
+
+.stadium_text {
+    background-color: #F99B1C;
+    border-radius: 50px;
+    width: 435px;
+    height: 315px;
+}
+
+.stadium_text span{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #000000;
+    display: block;
+    width: 349px;
+    height: 252px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+.water {
+    background: url("img/2b.png") center center/cover no-repeat;
+    height: 100vh;
+}
+
+.water_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 95px;
+    color: #921A1D;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.flex_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.water_img {
+    width: 481px;
+    height: 495px;
+}
+
+.water_text {
+    background-color: #F99B1C;
+    border-radius: 50px;
+    width: 435px;
+    height: 279px;
+}
+
+.water_text span{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #000000;
+    display: block;
+    width: 349px;
+    height: 252px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+
+.fedor {
+    background: url("img/2b.png") center center/cover no-repeat;
+    height: 100vh;
+}
+
+.fedor_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 95px;
+    color: #921A1D;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.flex_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fedor_img {
+    height: 453px;
+    width: 600px;
+    border-radius: 50px;
+
+}
+
+.fedor_text {
+    background-color: #F99B1C;
+    border-radius: 50px;
+    width: 435px;
+    height: 279px;
+}
+
+.fedor_text span{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #000000;
+    display: block;
+    width: 349px;
+    height: 252px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+.mansion {
+    background: url("img/4b.png") center center/cover no-repeat;
+    height: 100vh;
+}
+
+.mansion_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 95px;
+    color: #921A1D;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.flex_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.mansion_img {
+    height: 453px;
+    width: 600px;
+    border-radius: 50px;
+}
+
+.mansion_text {
+    background-color: #F99B1C;
+    border-radius: 50px;
+    height: 339px;
+    width: 435px;
+}
+
+.mansion_text span{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #000000;
+    display: block;
+    width: 349px;
+    height: 252px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+
+.kremlin {
+    background: url("img/2b.png") center center/cover no-repeat;
+    height: 100vh;
+}
+
+.kremlin_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 95px;
+    color: #921A1D;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.flex_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kremlin_img {
+    height: 453px;
+    width: 600px;
+    border-radius: 50px;
+}
+
+.kremlin_text {
+    background-color: #F99B1C;
+    border-radius: 50px;
+    height: 339px;
+    width: 435px;
+}
+
+.kremlin_text span{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #000000;
+    display: block;
+    width: 349px;
+    height: 252px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+
+.pokra {
+    background: url("img/2b.png") center center/cover no-repeat;
+    height: 100vh;
+}
+
+.pokra_title {
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 95px;
+    color: #921A1D;
+    text-align: center;
+    margin-bottom: 66px;
+}
+
+.flex_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pokra_img {
+    height: 453px;
+    width: 600px;
+    border-radius: 50px;
+}
+
+.pokra_text {
+    background-color: #F99B1C;
+    border-radius: 50px;
+    height: 339px;
+    width: 435px;
+}
+
+.pokra_text span{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #000000;
+    display: block;
+    width: 349px;
+    height: 252px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+.map {
+    height: 100vh;
+}
+
+.map_settings {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 152px;
+}
+
+.backtomain {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
